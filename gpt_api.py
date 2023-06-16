@@ -1,7 +1,7 @@
 import openai
 import os
 
-API_KEYS = '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'
+API_KEYS = 'YOU API KEYS'
 
 os.environ["HTTP_PROXY"] = "http://127.0.0.1:64835"
 os.environ["HTTPS_PROXY"] = "http://127.0.0.1:64835"
